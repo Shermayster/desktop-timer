@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
-  title = `Start timer`;
+  title = `Awesome Timer!`;
   timer = `00:00:00`
 
   constructor() { }

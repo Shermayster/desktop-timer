@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
-  "version": "1.7.0",
-  "description": "Angular 4 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "name": "angular-electron-timer-app",
+  "version": "1.0.0",
+  "description": "Angular Electron Timer App",
+  "homepage": "",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Pavel",
+    "email": "shermayster@gmail.com"
   },
   "keywords": [
     "angular",

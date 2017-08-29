@@ -1,0 +1,14 @@
+.set-timer-group {
+  display: flex;
+
+  .setTimer {
+    margin: 0 1rem;
+    input {
+      border: 1px solid #111;
+      background: #444;
+      color: #fff;
+      margin-left: .5rem;
+      width: 2rem;
+    }
+  }
+}

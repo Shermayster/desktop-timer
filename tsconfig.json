@@ -27,6 +27,8 @@
       "dom"
     ],
     "exclude": [
+      "dist",
+      "**/wallabyTest.ts",
       "node_modules",
       "**/*.spec.ts"
   ]
